@@ -1,8 +1,8 @@
 - Hi, I’m @Icefox339
 - I’m interested in some programming(So, I just rapidly hit keys on my keyboard.).
-- I’m currently learning Python, CSS, HTML, JavaScript (I know what does console.log()). 
-- I’m looking to collaborate on nothing. (Because I'm schewpid but if you wish, then...).
-- I absolutely have no sense about punctuation rules in English.
+- I’m currently learning Python, CSS, HTML, JavaScript (I know what does console.log()). [little update after 4 years: now I'm also in C, C++, C# and Assembler x86).
+- I’m looking to collaborate on something.
+- I have absolutely no sense about punctuation rules in English.
 - How to reach me:
 -   Discord: Icefox#8108
 -   Telegram: @Icefox339
