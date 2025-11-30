@@ -1,5 +1,4 @@
 - Hi, I’m @Icefox339
-- I’m interested in some programming(So, I just rapidly hit keys on my keyboard.).
 - I’m looking to collaborate on something.
 - How to reach me:
 -   Discord: Icefox#8108
